@@ -1,9 +1,6 @@
 ________
 
 
-#NoEnv
-#InstallKeybdHook
-#InstallMouseHook
 SetKeyDelay, 10, 10 
 
 
