@@ -33,6 +33,7 @@ sleep, m
 
 
 }
+
 random, x, 300,700
 sleep, x
 MouseMove, 40, -210, 20, R
